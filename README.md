@@ -1,8 +1,12 @@
-# Книга "Основи на програмирането" \(със C\#\)
+﻿# Книга "Основи на програмирането" \(със C\#\)
 
 Книгата "**Основи на програмирането**" запознава читателите с писането на **програмен код** на начално ниво (работа с данни, проверки, цикли и методи) с езика **C\#**.
 
 <img src="/assets/CSharp-Programming-Basics-Book-Cover.jpg" alt="Книга основи на програмирането със C# - корица" class="readme-book-cover-image" />
+
+Az sym naj-umniqt na sveta! 
+
+
 
 * [Предговор](chapter-00-preface.md)
 * [1. Първи стъпки в програмирането](chapter-01-first-steps-in-programming.md)
@@ -21,6 +25,8 @@
 * [8.1. Подготовка за практически изпит \(част I\)](chapter-08-exam-preparation.md)
 * [8.2. Подготовка за практически изпит \(част II\)](chapter-08-exam-preparation-part-2.md)
 * [9.1. Задачи за шампиони \(част I\)](chapter-09-problems-for-champions.md)
+
+The Jkoker is enemy to Batman!
 * [9.2. Задачи за шампиони \(част II\)](chapter-09-problems-for-champions-part-2.md)
 * [10. Методи](chapter-10-methods.md)
 * [11. Хитрости и хакове](chapter-11-tricks-and-hacks.md)
